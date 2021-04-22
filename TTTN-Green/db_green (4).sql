@@ -1,7 +1,7 @@
 -- phpMyAdmin SQL Dump
 -- version 4.4.12
 -- http://www.phpmyadmin.net
---
+--NGUYEN VAN MINH
 -- Host: 127.0.0.1
 -- Generation Time: May 24, 2017 at 03:33 PM
 -- Server version: 5.6.25
